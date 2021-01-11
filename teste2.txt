@@ -1,0 +1,8 @@
+[{'Situacao': []}, {'Situacao': []}, {'Situacao': []}, {'Situacao': []}, {'Situacao': []}, {'Situacao': [<p class="tdresult">Situação</p>]}, {'Situacao': [<p class="titulo">MERCADORIA RECEBIDA PARA TRANSPORTE</p>, <p class="tdb">CT-e autorizado com 2 volumes e 27 Kg. Destino: SC/JOINVILLE. Previsao de entrega: 23/09/20.
+</p>]}, {'Situacao': []}, {'Situacao': [<p class="titulo">SAIDA DE UNIDADE</p>, <p class="tdb">Saida da unidade SAO PAULO em 18/09/20, 23:42h. Previsao de chegada na unidade CANELINHA em 19/09/20, 12:42h.
+</p>]}, {'Situacao': []}, {'Situacao': [<p class="titulo">CHEGADA EM UNIDADE</p>, <p class="tdb">Chegada na unidade CANELINHA em 19/09/20, 08:24h.
+</p>]}, {'Situacao': []}, {'Situacao': [<p class="titulo">SAIDA DE UNIDADE</p>, <p class="tdb">Saida da unidade CANELINHA em 21/09/20, 09:49h. Previsao de chegada na unidade JOINVILLE em 21/09/20, 13:00h.
+</p>]}, {'Situacao': []}, {'Situacao': [<p class="titulo">CHEGADA EM UNIDADE</p>, <p class="tdb">Chegada na unidade JOINVILLE em 21/09/20, 20:03h.
+</p>]}, {'Situacao': []}, {'Situacao': [<p class="titulo">SAIDA PARA ENTREGA</p>, <p class="tdb">Saida para entrega na cidade JOINVILLE.
+</p>]}, {'Situacao': []}, {'Situacao': [<p class="titulo">MERCADORIA ENTREGUE</p>, <p class="tdb">ENTREGA REALIZADA - INFORMADA ATRAVES DA CHAVE 35200972090442000349570500002468481033377640 - MOBILE 5.
+</p>]}, {'Situacao': []}, {'Situacao': []}, {'Situacao': []}, {'Situacao': []}, {'Situacao': []}]
